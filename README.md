@@ -1,83 +1,160 @@
 <div align="center">
 
-# Hi, I'm Prayas
+# Prayas Haritash
 
-### College student · Beginner developer · Learning by building
+### Software Developer · Full-stack & Mobile · Applied AI/ML
 
-I turn ideas into practical projects across mobile, backend, and applied AI/ML.
+I build practical products across mobile, backend systems, real-time communication, and applied AI/ML.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Prayas536-181717?style=flat-square&logo=github)](https://github.com/Prayas536)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/prayas-530384326/)
+<p>
+  <a href="https://github.com/Prayas536">
+    <img src="https://img.shields.io/badge/GitHub-Prayas536-181717?style=flat-square&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/prayas-530384326/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:prayasharitash05@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Prayas536&style=flat-square&color=0A66C2" alt="Profile views" />
+</p>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+practical+software;Exploring+applied+AI%2FML;Designing+mobile+and+real-time+experiences;Learning+by+building%2C+breaking%2C+and+debugging" alt="Typing introduction" />
+</a>
 
 </div>
 
+---
+
 ## About me
 
-I'm Prayas, a college student at **G. B. Pant DSEU** (formerly **G. B. Pant Government Engineering College**). I'm learning software development by building and improving real projects rather than stopping at tutorials.
+I'm a college student at G. B. Pant DSEU (formerly G. B. Pant Government Engineering College), learning software development by building and improving real projects.
 
-My current interests sit at the intersection of:
+- Building full-stack and mobile applications with a focus on useful user experiences
+- Exploring real-time communication, API design, and better application architecture
+- Applying AI/ML to developer tools, healthcare prototypes, and stress prediction
+- Interested in internships, hackathons, and collaborative opportunities
+- Learning through building, debugging, documenting, and iterating
 
-- Full-stack and mobile application development
-- Real-time communication and API design
-- Applied AI/ML for developer and healthcare experiences
-- Better architecture, documentation, and development workflows
+## Current focus
 
-## Currently working on
-
-- Building more complete applications with TypeScript, React Native/Expo, Express, databases, and real-time APIs
-- Exploring applied AI/ML through stress prediction, healthcare prototypes, and AI-assisted developer tools
-- Turning experiments into cleaner, better-documented projects that are easier to understand and use
+| Focus | What I'm exploring |
+| --- | --- |
+| Product engineering | More complete TypeScript, React Native/Expo, Express, database, and real-time applications |
+| Applied AI/ML | Stress prediction, healthcare prototypes, and AI-assisted developer tools |
+| Engineering quality | Clearer architecture, documentation, maintainability, and development workflows |
 
 ## Tech stack
 
+<div align="center">
+
 ### Languages
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+<img src="https://skillicons.dev/icons?i=ts,js,py,dart,cpp&theme=dark" alt="TypeScript, JavaScript, Python, Dart, and C++" />
 
-### Frontend and mobile
+### Frontend & mobile
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,reactnative,expo,flutter,vite&theme=dark" alt="React, React Native, Expo, Flutter, and Vite" />
 
-### Backend and data
+### Backend, data & tooling
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,socketio,git&theme=dark" alt="Node.js, Express, FastAPI, PostgreSQL, Socket.IO, and Git" />
+
+</div>
 
 ## Featured projects
 
-| Project | What it demonstrates |
-| --- | --- |
-| [IBVAP-Ocean-Explorer](https://github.com/Prayas536/IBVAP-Ocean-Explorer) | A full-stack TypeScript/Expo project with authentication, messaging, user management, search, admin tools, analytics, and PostgreSQL-backed schemas. |
-| [chatapp](https://github.com/Prayas536/chatapp) | A real-time group chat application using an Expo mobile client, Express API, JWT authentication, Socket.IO, and database-backed messaging. |
-| [DevMentor-ai](https://github.com/Prayas536/DevMentor-ai) | An AI developer-assistant direction with chat, code-editor, and file-explorer experiences built for mobile. |
-| [stressMLModel](https://github.com/Prayas536/stressMLModel) | A FastAPI service for stress prediction using a machine-learning model, with personalized AI-generated advice. |
-| [Gen-AI-Hackathon](https://github.com/Prayas536/Gen-AI-Hackathon) | A collaborative healthcare project combining disease prediction, preventive guidance, and disease-focused LLM chat. |
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-## How I learn
+### [IBVAP-Ocean-Explorer](https://github.com/Prayas536/IBVAP-Ocean-Explorer)
 
-I learn by building, breaking, debugging, and documenting. Each project is a chance to understand a little more about product thinking, backend systems, data, user experience, and responsible use of AI.
+A full-stack TypeScript/Expo application with authentication, messaging, user management, search, admin tools, and analytics.
 
-I'm especially interested in internships, hackathons, and collaborative opportunities where I can contribute, learn from experienced developers, and ship useful software.
+    </td>
+    <td width="50%" valign="top">
 
-## Connect with me
+### [chatapp](https://github.com/Prayas536/chatapp)
 
-- **LinkedIn:** [prayas-530384326](https://www.linkedin.com/in/prayas-530384326/)
-- **Email:** [prayasharitash05@gmail.com](mailto:prayasharitash05@gmail.com)
+A real-time group chat application with an Expo mobile client, Express API, JWT authentication, Socket.IO, and database-backed messaging.
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### [DevMentor-ai](https://github.com/Prayas536/DevMentor-ai)
+
+An AI developer-assistant project with chat, code-editor, and file-explorer experiences designed for mobile.
+
+    </td>
+    <td width="50%" valign="top">
+
+### [stressMLModel](https://github.com/Prayas536/stressMLModel)
+
+A FastAPI service for stress prediction using a machine-learning model, with personalized AI-generated advice.
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### [Gen-AI-Hackathon](https://github.com/Prayas536/Gen-AI-Hackathon)
+
+A collaborative healthcare project combining disease prediction, preventive guidance, and disease-focused LLM chat.
+
+    </td>
+    <td width="50%" valign="top">
+
+### Why these matter
+
+These projects reflect practical engineering work across mobile, backend APIs, real-time systems, and applied AI/ML.
+
+    </td>
+  </tr>
+</table>
+
+## GitHub activity
 
 <div align="center">
 
-Thanks for visiting my profile.
+<a href="https://github.com/Prayas536">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Prayas536&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="Prayas's GitHub statistics" />
+</a>
+
+<a href="https://github.com/Prayas536">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prayas536&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Top languages" />
+</a>
+
+<br />
+
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=Prayas536&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+</a>
+
+</div>
+
+## Contribution activity
+
+<div align="center">
+
+<!-- Generated by .github/workflows/snake.yml. This asset is created automatically after the workflow runs. -->
+<img src="https://raw.githubusercontent.com/Prayas536/Prayas536/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+
+</div>
+
+## Connect
+
+<div align="center">
+
+<a href="https://github.com/Prayas536">GitHub</a> ·
+<a href="https://www.linkedin.com/in/prayas-530384326/">LinkedIn</a> ·
+<a href="mailto:prayasharitash05@gmail.com">Email</a>
+
+<br /><br />
+
+<sub>Thanks for visiting. I’m always learning, building, and shipping useful software.</sub>
 
 </div>
